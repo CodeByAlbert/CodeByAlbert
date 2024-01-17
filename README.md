@@ -3,13 +3,6 @@
 ## 👋 Introduction
 Hello, I'm Albert Rodriguez, a dedicated and skilled Software Developer with over 11 years of experience in IT. I specialize in Full Stack Development and have a strong background in system administration, network management, and technical support. My expertise spans a variety of technologies including Python, JavaScript, SQL, and more.
 
-## 📚 Table of Contents
-- [Skills](#-skills)
-- [Professional Experience](#-professional-experience)
-- [Education](#-education)
-- [Projects](#-projects)
-- [Contact](#-contact)
-
 ## 💻 Skills
 - **Languages & Frameworks:** HTML, CSS, JavaScript, Node.js, Python, Flask, React
 - **Tools & Technologies:** Git, GitHub, Bootstrap, TCP/IP, Agile Methodology, Microsoft Azure, AWS
