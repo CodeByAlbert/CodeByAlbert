@@ -1,7 +1,7 @@
 # Albert Rodriguez - Software Developer
 
 ## 👋 Introduction
-Hello, I'm Albert Rodriguez, a dedicated and skilled Software Developer with over 11 years of experience in IT. I specialize in Full Stack Development and have a strong background in system administration, network management, and technical support. My expertise spans a variety of technologies including Python, JavaScript, SQL, and more.
+Hello, I'm Albert Rodriguez, I am a Software Developer with a solid 11-year IT background, system administration, and network management, I bring a unique blend of technical skills and problem-solving abilities. My experience in troubleshooting software and hardware issues and providing comprehensive technical support has honed my analytical thinking and solution-finding skills, essential for developing robust web applications. Although new to web development, my adeptness in understanding and managing complex IT systems, combined with a proven ability to master new technologies, positions me well for a career in web development. I am particularly skilled in Windows-based server and network administration, which complements web development environments. My experience in VMware and ticketing systems demonstrates my adaptability and readiness to manage web project workflows efficiently. I am keen on leveraging these skills to develop, deploy, and maintain high-quality, user-centric web applications, even in fast-paced settings. My dedication to continual learning and improvement is aimed at swiftly gaining proficiency in front-end and back-end technologies to become a versatile and effective web developer.
 
 ## 💻 Skills
 - **Programming Languages & Frameworks:** HTML, CSS, JavaScript, Node.js, Python, Flask, React, Bootstrap
