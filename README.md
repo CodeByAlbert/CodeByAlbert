@@ -27,18 +27,6 @@ Hello, I'm Albert Rodriguez, I am a Software Developer with a solid 11-year IT b
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### Networking & Security
-![CCNA](https://img.shields.io/badge/-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
-### Methodologies
-![Agile Methodology](https://img.shields.io/badge/-Agile-007ACC?style=flat&logo=agile&logoColor=white)
-
-### Other Skills
-- Software Installation
-- Project Management
-
-
-
 ## 👔 Professional Experience
 - **Goodwill Industries of South Florida** - IT Service Desktop Engineer II (April 2021 - Present)
 - **Reynolds and Reynolds** - Field Service Engineer (October 2015 - February 2021)
@@ -51,16 +39,7 @@ Hello, I'm Albert Rodriguez, I am a Software Developer with a solid 11-year IT b
 
 Feel free to connect with me for any opportunities or inquiries!
 
-- [![LinkedIn][1.1]][1] [LinkedIn - Alberto Rodriguez III](https://www.linkedin.com/in/alberto-rodriguez-iii/)
-- [![Email][2.1]][2] [Email - albert.rodriguez.it@gmail.com](mailto:albert.rodriguez.it@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-rodriguez-iii/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:albert.rodriguez.it@gmail.com)
 
-<!-- Icons -->
-
-[1.1]: https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white (LinkedIn icon)
-[2.1]: https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white (Email icon)
-
-<!-- Links -->
-
-[1]: https://www.linkedin.com/in/alberto-rodriguez-iii/
-[2]: mailto:albert.rodriguez.it@gmail.com
 
