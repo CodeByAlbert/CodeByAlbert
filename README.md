@@ -47,3 +47,20 @@ Hello, I'm Albert Rodriguez, I am a Software Developer with a solid 11-year IT b
 ## 🎓 Education
 - **4 Geeks Academy** - Full Stack Developer (October 2023 - February 2024)
 
+## 📬 Contact Me
+
+Feel free to connect with me for any opportunities or inquiries!
+
+- [![LinkedIn][1.1]][1] [LinkedIn - Alberto Rodriguez III](https://www.linkedin.com/in/alberto-rodriguez-iii/)
+- [![Email][2.1]][2] [Email - albert.rodriguez.it@gmail.com](mailto:albert.rodriguez.it@gmail.com)
+
+<!-- Icons -->
+
+[1.1]: https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white (LinkedIn icon)
+[2.1]: https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white (Email icon)
+
+<!-- Links -->
+
+[1]: https://www.linkedin.com/in/alberto-rodriguez-iii/
+[2]: mailto:albert.rodriguez.it@gmail.com
+
